@@ -32,7 +32,7 @@
     border-radius: 4px;
 }
 
-.banner-section {
+.banner {
     width: 1516px;
     height: 650px;
     background-image: url(../assets/Hero-bg.png);
@@ -43,10 +43,10 @@
     margin-top: 40px;
 
 }
-.banner-section-image {
+.banner-image {
     margin-bottom: 30px;
 }
-.banner-section-content {
+.banner-content {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 28px;
@@ -57,7 +57,7 @@
     margin-left: 100px ;
     margin-right: 100px;
 }
-.banner-section-description {
+.banner-description {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 13px;
@@ -68,11 +68,11 @@
     margin: 20px 100px 0px;
  
 }
-.banner-section-btn{
+.banner-btn{
     color: rgb(255, 255, 255);
  
 }
-.banner-section-btn button {
+.banner-btn button {
     border-radius: 8px;
     background-color: rgb(13, 19, 33);
     color: white;
