@@ -82,3 +82,81 @@
     padding: 14px;
     margin-top: 20px;
 }
+
+.developer-container {
+    width: 1320px;
+    height: 1000px;
+    margin: 60px auto;
+    background-color: rgb(13, 19, 33, 0.02);
+
+}
+.developer-content-text {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    padding: 50px 0px 20px 0px;
+
+}
+.developer-content-description {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: center;
+    line-height: 22px;
+
+}
+.developer-text-content {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+.developer-description {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: left;
+    line-height: 22px;
+    letter-spacing: 0%;
+    margin-top: 10px;
+}
+.develop-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    margin: 15px 100px;
+    background-color: white;
+}
+.develop-content-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    margin: 15px 100px;
+    background-color: white;
+}
+.develop-content-3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    margin: 15px 100px;
+    background-color: white;
+}
+.developer-btn {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 11px;
+    font-weight: 400;
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid rgb(141, 142, 144);
+}
