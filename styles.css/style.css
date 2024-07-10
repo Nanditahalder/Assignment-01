@@ -167,6 +167,7 @@
 }
 .developer-btn a{ 
     text-decoration: none;
+    color: #000;
     
 }
 .inspiration-container {
@@ -281,11 +282,22 @@
     border-radius: 16px;
     padding: 60px;
 }
-
+.target-item-1 a {
+    text-decoration: none;
+    color: black;
+}
 .target-item-2 { 
     background-color: rgba(0, 76, 232, 0.05) ;
     border-radius: 16px;
     padding: 60px;
+}
+.target-item-2 a {
+    text-decoration: none;
+    color: black;
+}
+.target-item-3 a {
+    text-decoration: none;
+    color: black;
 }
 .target-item-3{ 
     background-color: rgba(255, 223, 0, 0.05);
