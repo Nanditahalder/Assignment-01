@@ -68,8 +68,9 @@
     margin: 20px 100px 0px;
  
 }
-.banner-btn{
+.banner-btn a{
     color: rgb(255, 255, 255);
+    text-decoration: none;
  
 }
 .banner-btn button {
@@ -81,6 +82,7 @@
     font-weight: 400;
     padding: 14px;
     margin-top: 20px;
+    
 }
 
 .developer-container {
@@ -135,6 +137,7 @@
     margin: 15px 100px;
     background-color: white;
 }
+
 .develop-content-2 {
     display: flex;
     justify-content: space-around;
@@ -159,6 +162,12 @@
     padding: 10px;
     margin-top: 20px;
     border: 1px solid rgb(141, 142, 144);
+    text-decoration: none;
+    
+}
+.developer-btn a{ 
+    text-decoration: none;
+    
 }
 .inspiration-container {
     width: 1320px;
@@ -204,7 +213,6 @@
     min-height: 560px;
 }
 .target-section {
-    border: 2px solid red;
     width: 1320px;
     height: 550px;
     margin: 60px auto;
@@ -336,3 +344,20 @@
 
 }
 
+.footer-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 60px 60px;
+    background-color: rgb(13, 19, 33, 0.03);
+    padding: 40px;
+    margin: 0px 20px 0px 20px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    width: 1320px;
+    height: 30px;
+    margin: 0 auto;
+}
